@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RAAD.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B2A0334C1E9ADD8866B9C2C9F2E62FC5F1B45B9B</string>
+				<key>dateExpires</key>
+				<string>9/9/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B2A0334C1E9ADD8866B9C2C9F2E62FC5F1B45B9B</string>
+						<key>dateExpires</key>
+						<string>9/9/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Charts.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>K65G995JWH</string>
+						<key>name</key>
+						<string>BiOMOTUM, LLC</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>K65G995JWH.com.BiOMOTUM.RAAD</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>K65G995JWH</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>K65G995JWH.com.BiOMOTUM.RAAD</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>RAAD.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>8509a49b-5929-47b8-ba49-58b5d73254fd</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.BiOMOTUM.RAAD</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>K65G995JWH</string>
+				<key>name</key>
+				<string>BiOMOTUM, LLC</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
