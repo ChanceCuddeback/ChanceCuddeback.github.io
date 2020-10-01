@@ -1,4 +1,6 @@
 # ChanceCuddeback.github.io
 Created to host a GitHub page. 
 
-This is a test link: [Download App](https://github.com/ChanceCuddeback.github.io/NAUExoControl 2020-09-30 15-34-35/RAAD.ipa)
+Note: If you would like to download the app you must use a SAFARI browser on you iPhone.
+
+Download the app by clicking [here.](itms-services://?action=download-manifest&amp;url=https://github.com/ChanceCuddeback/ChanceCuddeback.github.io/blob/master/IPA-OTA.plist)
